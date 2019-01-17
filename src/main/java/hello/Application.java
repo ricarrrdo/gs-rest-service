@@ -4,7 +4,7 @@
 * NOTE: this program recreates Twitter Example for generating Oauth header given in https://developer.twitter.com/en/docs/basics/authentication/guides/creating-a-signature.html
 *       and it's working correctly.
 *
-* QUESTION: How to "adapt it" do send a direct message to Twitter, according to given example at https://developer.twitter.com/en/docs/direct-messages/sending-and-receiving/api-reference/new-event ?
+* QUESTION: How to "adapt it" to send a direct message to Twitter, according to given example at https://developer.twitter.com/en/docs/direct-messages/sending-and-receiving/api-reference/new-event ?
 *
 * PROBLEM: I'm getting {"errors":[{"code":215,"message":"Bad Authentication data."}]} from Twitter when trying to send a direct message
 *
