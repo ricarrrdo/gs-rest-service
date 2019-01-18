@@ -3,7 +3,7 @@
 * Twitter Oauth legacy authentication - Sending Direct Messages
 * How to use:
 * - insert your Twitter api credentials below;
-* - compile and run: mvn spring-boot:run -> it will try to send message "hello?!" to user 777777777777777777 (check main).
+* - compile and run: mvn spring-boot:run -> it will try to send message "hello?!" to user 777777777777777777  (check main).
 *
 * Note: I'm using Spring deprecated AsyncRestTemplate (if someone knows to use WebClient,
 *       please upgrade restASyncClientBody() method, it would be much appreciated!)
