@@ -7,7 +7,7 @@
   
 2. Compile and run: 
     mvn spring-boot:run
-    -> it will try to send message "hello?!" to user 777777777777777777  (check main function in Application.java)
+    -> it will try to send message "hello?!" to user 777777777777777777  (check main() function in Application.java)
     
     
 <b>Notes: </b>
